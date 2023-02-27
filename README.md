@@ -1,1 +1,1 @@
-# This repo contains my project from internships and certifications
+# This repo contains my projects from internships and certifications
